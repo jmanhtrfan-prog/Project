@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6BB53A342F57C457006DB654 /* TravelAssist */ = {
+		6BB53A342F57C457006DB654 /* Project */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TravelAssist;
+			path = Project;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		6BB53A292F57C457006DB654 = {
 			isa = PBXGroup;
 			children = (
-				6BB53A342F57C457006DB654 /* TravelAssist */,
+				6BB53A342F57C457006DB654 /* Project */,
 				6BB53A332F57C457006DB654 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6BB53A342F57C457006DB654 /* TravelAssist */,
+				6BB53A342F57C457006DB654 /* Project */,
 			);
 			name = Project;
 			packageProductDependencies = (
